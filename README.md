@@ -1,2 +1,2 @@
-# ppsystem
-pp system?
+# FurrygenPP
+A server.
